@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JavedAbdullah
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning flutter (for fun)
-- 💞️ I’m looking to collaborate on web projects with (js,php,docker,boostap,html,css,mysql)
+- 💞️ I’m looking to collaborate on web projects with (js,php,docker,bootstrap,html,css,mysql)
 - 📫 How to reach me (jave.abdullah@gmail.com)
 
 <!---
