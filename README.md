@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JavedAbdullah
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently practice for become candidate master on codeforce
+- 👀 ~
+- 🌱 ~
 - 💞️ ~ ~
 - 📫 How to reach me (jave.abdullah@gmail.com)
 
