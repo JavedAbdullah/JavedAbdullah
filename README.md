@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JavedAbdullah
-- 👀 ~
-- 🌱 ~
-- 💞️ ~ ~
 - 📫 How to reach me (jave.abdullah@gmail.com)
 
 <!---
